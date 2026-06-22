@@ -20,3 +20,7 @@ O scraper será desenvolvido em módulos para atender aos seguintes critérios t
 * **Linguagem:** Python 3
 * **Bibliotecas:** `requests` (Requisições HTTP), `beautifulsoup4` (Análise de HTML), `ssl` & `socket` (Análise de certificados)
 * **Ambiente de Desenvolvimento:** VS Code / Terminal
+
+--
+## Linha do tempo / evolução
+* 📁 **[passo_01_conexao_e_headers](./passo_01_conexao_e_headers/)**
