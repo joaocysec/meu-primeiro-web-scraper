@@ -1,0 +1,11 @@
+Instalação do python 3 e a biblioteca beutifulsoup4.
+
+Usaremos a biblioteca para limpar, organizar e extrair informações de uma "sopa" de código HTML. 
+
+Por a biblioteca é essencial? 
+
+No scraper de reconhecimento de Cyber Sec, usaremos o BeautifulSoup para:
+
+1º - Buscar links ocultos: Rastrear todas as tags <a> para descobrir páginas e subdiretórios que o site possui.
+2º - Identificar tecnologias: Olhar para tags específicas (como <meta name="generator" content="WordPress">) para descobrir se o site usa WordPress, Joomla ou outra tecnologia vulnerável.
+3º - Mapear formulários: Encontrar campos de login ou inputs para entender onde o site interage com o usuário.
