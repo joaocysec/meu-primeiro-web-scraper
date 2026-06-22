@@ -9,3 +9,7 @@ No scraper de reconhecimento de Cyber Sec, usaremos o BeautifulSoup para:
 1º - Buscar links ocultos: Rastrear todas as tags <a> para descobrir páginas e subdiretórios que o site possui.
 2º - Identificar tecnologias: Olhar para tags específicas (como <meta name="generator" content="WordPress">) para descobrir se o site usa WordPress, Joomla ou outra tecnologia vulnerável.
 3º - Mapear formulários: Encontrar campos de login ou inputs para entender onde o site interage com o usuário.
+
+--
+
+Instalei a biblioteca requests, serve como navegador de internet do meu código, para me retornar o codigo HTML que preciso. 
